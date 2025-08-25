@@ -6,7 +6,7 @@ export default async function handler(req, res) {
 
     const map = {
       chakrishar: 'vajradog/chakrishar-blog',
-      // add more as you create them:
+      /gamchung: 'vajradog/gamchung-blog',
       // gamchung: 'vajradog/gamchung-blog',
       // tibetancalligraphy: 'vajradog/tibetancalligraphy-blog',
     }
