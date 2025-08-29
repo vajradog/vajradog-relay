@@ -7,9 +7,8 @@ export default async function handler(req, res) {
     const map = {
       chakrishar: 'vajradog/chakrishar-blog',
       gamchung: 'vajradog/gamchung-blog',
-      tibetancalligraphy: 'vajradog/tibetancalligraphy-blog', // ← add this
-
-      // tibetancalligraphy: 'vajradog/tibetancalligraphy-blog',
+      tibetancalligraphy: 'vajradog/tibetancalligraphy-blog',
+      livinglibrary: 'vajradog/livinglibrary-blog',
     }
 
     const repo = map[site]
